@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,500&family=Work+Sans:ital@0;1&display=swap');
+
+.hook-link {
+    color: #222f3e;
+    /* Link color */
+    text-decoration: none;
+    /* Remove underline */
+    font-weight: bold;
+    /* Make the text bold */
+    font-family: 'Roboto', sans-serif;
+    /* Link Font */
+}
+
+.hook-link:hover {
+    color: #485460;
+    /* Hover color */
+}
+
+.hook-link:active {
+    color: #d2dae2;
+    /* Active color */
+}
